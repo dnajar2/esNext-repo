@@ -1,2 +1,2 @@
-import X from './test';
+import x from './test';
 console.log(`imported:  ${x}`);
